@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.android/build-cache/5f05bc0e318fcde365a1c64b7788c59981f0abe0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/debug/classes_ba470b2256f298199bb4ebe3e786cc97c5bc379b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/androidTest/debug/javawriter-2.1.1_10bf4935196d5fee92ed3157cf948b05b0d2f94e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.android/build-cache/6f53cea2a5e967ef45bbf1670ebf59f04f9cd83d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/debug/classes_a4da971fad7a8da60692505b134e9d94799a9de0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/androidTest/debug/junit-4.12_966301219039035ef548f0719f2ee93cf6379420.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.android/build-cache/4be0ce5971a8b54a440351a1549f72d340b31962/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de24d8023e8da79f30bee46b298f606e5e758432">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/debug/classes_bd397a7eba84058fcd50e4dae8564175ede26830.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.android/build-cache/5d7cee57e750491c944ba108e3aa95d1527c2b98/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/debug/classes_c97926e01d7f46cf92b0355b0afb541b4a04a3fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.android/build-cache/7ae253b441cdd6f6b744d7f3507561c48fcc65b6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/debug/classes_1d8475dbbe1d41cf1e7b5df74efafe4ecb236a65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.android/build-cache/9d6712908741241ac2d9e7b53fe2b0f46e8f0413/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/androidTest/debug/classes_f26dd02eabe3a492298467edfb6649a8de9d8721.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.android/build-cache/3ff005147ca73930eae4f0a6fd7d71ed499fd83f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/debug/classes_7d899302341a2c8beba266eaa4a62a2817b0d49b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.android/build-cache/1370898cf4da0edc01746c9321109125ca1a1a53/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/androidTest/debug/classes_21cd048514e9ea88837eee64bb2759b2a5b04ceb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.android/build-cache/202ab62d84d38700fbc4c36692c8eb5036a6f74d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/debug/classes_1a04e5a5c93c402b7fc6fb38e332838af9ff4156.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.android/build-cache/02cab7d7e6be81292d65ed769458d4d8abbecf38/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f5bcd9cbfeedc58f493339841a7c5d0347a39f0b">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/debug/classes_5fb9d1776393dc863d644482465b57d9ca4b6f7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.android/build-cache/f9eae5f99124ed2e1af9f8fc6e1a2f7b7cf0ef99/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/androidTest/debug/classes_c9eff3b3f46e24da686eb413ece0abf3d1855a45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.android/build-cache/8ece2eeeb80ae3d2a94d5100a21351716152af6f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/debug/classes_8183845af47df90700625296a13b0c34917b8062.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_c893b65814f0081054a298dac0b8bba16d832f42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.android/build-cache/2f711ac8a98c50c9098ceb54c4a41aa3f2d30398/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/debug/classes_a52c3b465e1478e3d22233675a48b9c858171123.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.android/build-cache/a0a224ea6e73c3a14a1d4c1b15293f500d4f9bd7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5c1f80f62ccad560edcd6609fc75f385cf7cb45a">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/debug/classes_dde96b00783e8360f2dc986a6daac0cf55fc20a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.android/build-cache/9d92f5b008f3079bf7f5d5c325c2504038106285/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/androidTest/debug/classes_38d0c07bc83216839cb584b94e6045be4399b50b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-library-1.3_c53b62b3e3594d297caace2cea10bde5732d454d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_ac587c524059216407da8ec84558ed19c9606bfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.android/build-cache/92e0ed1af27bbe09e588d47571c06de13c902de2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/debug/classes_ae7263f79d53e0fca406a9203ecc13811dd2107c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.android/build-cache/1d159231d8e8b438dc748b9bb4a928c9bdb8d0d1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/debug/classes_a212e47cddc4bcab9af9d653e84b048464e65320.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.android/build-cache/ec7bbf1d486b7522c9dccb8b4aa280bd50c05289/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/debug/classes_63ab3f894d4d8bb2cd3a03203d55560f2809ef11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.android/build-cache/456eb72677988c5da4f1d45c4f6e6e119f748416/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/debug/classes_8104f31015e05ae0370eeb14cdece4b4b496ff38.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2390dd297576bbfaa267ddbbdb19139012419fa0">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f04775af21fd4f99a40d08abf2d7eadfb5ddf716/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.android/build-cache/d7cb441362b64d9b03a4ec13ad948ed315b9d7f5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/debug/classes_b27dcdeb899911c4a7e5af802f12bfb95d5f8397.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-core-1.3_599c34896bbe73b28d16599361f30beecae8dc05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.android/build-cache/b27f5913dff5fb9a46abe424af6efe688d46cad2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/debug/classes_54bed90dca35211ddbf8d05c22e593ef1676be2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.android/build-cache/01aa72195bf1bc40a95e731a167d08d8c7bb8cda/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/androidTest/debug/classes_bc3ea24c82afade5640a45c08727205da16498f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/androidTest/debug/javax.inject-1_f2deb3e9774a17f7828e2e620dd9b9b5f0fb9fd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/5de0c73fef18917cd85d0ab70bb23818685e4dfd/hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-integration-1.3_204764851461dfd59d14c5030233d9fa5009d441.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/androidTest/debug/jsr305-2.0.1_66e57ea3141f94baca348785c40a9c9239520018.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.android/build-cache/50188fceeed73d2e4100274cd7e9c805db8cff21/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/debug/classes_4958e175efe27611e727c4a02aead81e63dfa63b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.android/build-cache/ade45ff5552f7a3e51ceddd73ad7d461f1546b41/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/debug/classes_5ad3663a520b5d7ceceb1aaf1baeb36843ec6c3c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1eba85ee494d283a1f8feab25711bb242e8f73d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.android/build-cache/ebc1c9110bf47a123bc2673ec2589d41e351a696/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/debug/classes_f6e00689ab311b75042b6b287ef7963aca0c7715.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.android/build-cache/b4a188c7693a3eca7acfbd1dfe4c9425ddcc9b96/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="577aa74e06e6b4b407ff23ac75043685ae26dcbb">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/debug/classes_fcc856b5f58555d903723813c5eb9cfb1655f6c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.android/build-cache/17f76563df9842f7d7ba509252a309c27041742f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/debug/classes_7a3c331d558f70df0afa8a9a5aedfb6ad9dd0fcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.android/build-cache/d91fbc1c89ffd521d0fea4410a69575811c2b6fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/debug/classes_9cc6000379865c98921900dff39948425fdec9ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.android/build-cache/328eb8c34976aefb6ff3fa963c50743221448e3d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/debug/classes_2b33383b3d192464152b87f59df3b61acda892a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huyasongdeng/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="/Users/huyasongdeng/StudioProjects/A3csci3130/app/build/intermediates/pre-dexed/androidTest/debug/javax.annotation-api-1.2_c8ccaec19ae2477a21802585fb95eb2de5e89a92.jar" />
+    </item>
+
+</items>
